@@ -1,5 +1,5 @@
 {
-  "name": "@hk-pG/react-terminal-ui",
+  "name": "@chrome-bookmark-cli/react-terminal-ui",
   "version": "1.0.4",
   "description": "",
   "main": "build/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hk-pG/react-terminal-ui.git"
+    "url": "git+https://github.com/chrome-bookmark-cli/react-terminal-ui.git"
   },
   "keywords": [
     "terminal",
